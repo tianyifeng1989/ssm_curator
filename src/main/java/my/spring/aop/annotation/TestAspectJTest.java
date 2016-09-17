@@ -1,4 +1,4 @@
-package my.spring.aop.annotation;
+/*package my.spring.aop.annotation;
 
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.After;
@@ -34,3 +34,4 @@ public class TestAspectJTest {
 		return obj;
 	}
 }
+*/
